@@ -6,7 +6,7 @@
 
 ### Education
 - Data Analyst Programme | ITonline Learning Ltd (_2024_)
-- MSc., Pharmacology and Toxicology | The University of Uyo, Nigeria (_2023_)
+- MSc., Pharmacology & Toxicology | University of Uyo, Nigeria (_2023_)
 - BSc., Human Physiology | Madonna Univeristy, Nigeria (_2017_)
 
 ### Work Experience

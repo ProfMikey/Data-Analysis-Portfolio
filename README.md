@@ -1,7 +1,13 @@
 # Data Analyst
 
+#### Technical Skills: SQL, Tableau, Microsoft Excel, Python 3, Microsoft PowerBI, IBM SPSS, CRM Systems, Google Workspace, Microsoft Office
+
+#### Soft Skills: Detail-oriented, Time Management, Problem-solving, Teamwork, Impeccable Work ethics, Critical and Analytical Thinking
+
 ### Education
-Data Analyst Programme, ITonline Learning Ltd, 2023-2024
+- Data Analyst Programme | ITonline Learning Ltd (_2024_)
+- MSc., Pharmacology and Toxicology | The University of Uyo, Nigeria (_2023_)
+- BSc., Human Physiology | Madonna Univeristy, Nigeria (_2017_)
 
 ### Work Experience
 Support Worker @ East Park
@@ -29,17 +35,19 @@ Support Care Worker @ Turris Davidica Integrated Services
 - Demonstrated empathy, patience, and cultural sensitivity in all interactions with clients and their families, respecting their autonomy, choices, and preferences.
 
 ### Projects
-Microsoft Excel: Data Analysis and Visualisation | ITonlinelearning Ltd through Codecademy                                                   2024
+Microsoft Excel: Data Analysis and Visualisation | ITonlinelearning Ltd through Codecademy                                                                     2024
 - Utilised Excel functions and tools to analyse gross domestic product (GDP) data, including formatting, sorting, and filtering techniques, conducting data validation and cleaning to ensure accuracy and reliability of GDP analysis results before creating visualisations such as charts and graphs to present GDP trends and patterns effectively.
 - Imported and manipulated hotel data in Excel, including room rates, occupancy rates, and customer reviews, as well as developed dynamic dashboards and reports to visualise hotel performance metrics and trends.
 - Utilised pivot tables and slicers to analyse and explore data from various perspectives, including the application of advanced Excel functions such as VLOOKUP and INDEX-MATCH to retrieve and analyse data.
 - Organised and structured hotel data in Excel using tables and named ranges for efficient data management, including the creation of macros to automate repetitive tasks and streamline data processing workflows.
+- [My Excel Projects](https://drive.google.com/drive/folders/13LHSnhyXNNt_6tB7bXAQvEW89MC2rK8z?usp=drive_link)
 
 SQL: Tables and Trends | ITonlinelearning Ltd through Codecademy                                                                                              2024
 - Designed and implemented SQL database tables to store and manage structured data effectively.
 - Defined data types, constraints, and relationships to ensure data integrity and consistency within tables.
 - Utilised SQL queries to analyse trends in start-up companies, including funding rounds, industry sectors, and geographical distribution.
 - Extracted relevant insights and patterns from start-up data using SQL aggregate functions and grouping techniques.
+- [My SQL Projects]()
 
 Python 3: Programmes | ITonlinelearning Ltd through Codecademy                                                                                                2024
 - Created Python scripts to generate block letters and patterns using loops and string manipulation techniques, as well as implemented algorithms to customise block letter designs based on user input and preferences.
@@ -47,10 +55,12 @@ Python 3: Programmes | ITonlinelearning Ltd through Codecademy                  
 - Implemented a Python programme to simulate a Magic 8-Ball fortune-telling game, providing random responses to user questions through conditional statements and random number generation.
 - Developed a Python grade book application to manage student grades and calculate overall class averages, using lists and nested lists to store student data and grade information, allowing for easy retrieval and manipulation.
 - Created a Python programme to calculate scores for Scrabble words based on letter values and word lengths, making use of dictionaries to map letter scores and implement scoring rules for Scrabble gameplay.
+- [My Python 3 Projects](https://www.codecademy.com/workspaces/663602bbfbc6c34f924618dd)
 
 Tableau: Data Visualisation | ITonlinelearning Ltd through Codecademy                                                                                       2024
 - Designed interactive Tableau dashboards and visualisations to explore NYC tree census data and income demographics, using features such as filters, parameters, and calculated fields to create dynamic and insightful visualisations.
 - Prepared and cleaned NYC tree census and income data for analysis in Tableau, including data integration and transformation before structuring data sources and defining relationships to facilitate seamless data visualisation.
+- [My Tableau Projects](https://public.tableau.com/app/profile/michael.nnumolu/vizzes)
 
 Administrative Assistance | London Chess Academy
 - Managed over 500 client records using CRM systems, improving data retrieval efficiency by 15%. Utilised SQL for data querying and cleaning, enhancing internal reporting accuracy and speed.

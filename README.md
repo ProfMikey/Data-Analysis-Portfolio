@@ -2,7 +2,9 @@
 
 ### Education
 Data Analyst Programme, ITonline Learning Ltd, 2023-2024
+
 MSc, Pharmacology and Toxicology, 2019-2023
+
 BSc, Human Physiology, 2010-2017
 
 ### Work Experience

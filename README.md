@@ -1,11 +1,13 @@
 # Data Analyst
 
+
 ### Education
 Data Analyst Programme, ITonline Learning Ltd, 2023-2024
 
 MSc, Pharmacology and Toxicology, 2019-2023
 
 BSc, Human Physiology, 2010-2017
+
 
 ### Work Experience
 Support Worker @ East Park
@@ -31,6 +33,7 @@ Support Care Worker @ Turris Davidica Integrated Services
 - Provided support with daily tasks, including personal care, medication management, and meal assistance whilst assisting clients in various settings, ensuring their safety and comfort during transportation and mobility.
 - Engaged clients in social and recreational activities to promote mental stimulation and emotional well-being, while offering companionship and empathy.
 - Demonstrated empathy, patience, and cultural sensitivity in all interactions with clients and their families, respecting their autonomy, choices, and preferences.
+
 
 ### Projects
 Microsoft Excel: Data Analysis and Visualisation | ITonlinelearning Ltd through Codecademy                                                   2024

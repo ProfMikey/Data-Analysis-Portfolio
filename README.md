@@ -1,8 +1,10 @@
 # Data Analyst
 
-#### Technical Skills: SQL, Tableau, Microsoft Excel, Python 3, Microsoft PowerBI, IBM SPSS, CRM Systems, Google Workspace, Microsoft Office
+#### Technical Skills: 
+SQL, Tableau, Microsoft Excel, Python 3, Microsoft PowerBI, IBM SPSS, CRM Systems, Google Workspace, Microsoft Office
 
-#### Soft Skills: Detail-oriented, Time Management, Problem-solving, Teamwork, Impeccable Work ethics, Critical and Analytical Thinking
+#### Soft Skills: 
+Detail-oriented, Time Management, Problem-solving, Teamwork, Impeccable Work ethics, Critical and Analytical Thinking
 
 ### Education
 - Data Analyst Programme | ITonline Learning Ltd (_2024_)
